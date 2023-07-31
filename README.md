@@ -1,4 +1,4 @@
-# Go-crud-api
+# go-crud-api
 version v.0
 
 # gunakan postman
